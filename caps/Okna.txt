@@ -1,0 +1,8 @@
+Confirm
+The page at
+Security Warning
+Warning: Unresponsive script
+Ошибка при печати
+Печать
+Alert
+[JavaScript Application]
